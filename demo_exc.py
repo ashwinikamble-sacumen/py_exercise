@@ -62,7 +62,7 @@ def fetch_ms(url):
         print("MissingSchema with http or https")
 
 
-# fetch_ms("www.google.com")
+fetch_ms("www.google.com")
 
 
 def fetch_conn(url):
