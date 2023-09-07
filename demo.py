@@ -32,4 +32,4 @@ def demo_post(url):
     print(res.json())
 
 
-demo_post("https://httpbin.org/post")
+demo_post("https://httpbin.org/put")
